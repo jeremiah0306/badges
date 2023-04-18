@@ -1,0 +1,161 @@
+*{
+margin:0;
+padding:0;
+}
+.main_container{
+	width:90%;
+}
+.badge_container{
+	
+	background-color:azure;
+	
+	width: 40%;
+	height:450px;
+	margin-left:300px;
+	margin-top:20px;
+	font-size:21px;
+	line-height:3;
+	box-shadow:4px 5px 15px green;
+
+}
+.badge_container h1 a{
+	background-color:blue;
+	color:white;
+	border-radius:8px;
+		text-decoration:none;
+	
+}
+.badge_container h2 a{
+	background-color:grey;
+	color:white;
+	border-radius:8px;
+		text-decoration:none;
+}
+.badge_container h3 a{
+	background-color:red;
+	color:white;
+	border-radius:8px;
+		text-decoration:none;
+}
+.badge_container h4 a{
+	background-color:yellow;
+	color:white;
+	border-radius:8px;
+		text-decoration:none;
+}
+.badge_container h5 a{
+	background-color:azure;
+	color:white;
+	border-radius:8px;
+		text-decoration:none;
+}
+.badge_container h6 a{
+	background-color:pink;
+	color:white;
+	border-radius:8px;
+		text-decoration:none;
+	
+}
+.main_conatiner2{
+	width:90%;
+	display:flex;
+}
+.badges{
+	
+	border:2px solid;
+	border-radius:5px;
+	width:300px;
+	height:50px;
+	background-color:azure;
+	display:flex;
+	justify-content:center;
+	align-items:center; 	
+	}
+.badges a{
+	position:relative;
+	background-color:blue;
+	border-radius:4px;
+	color:white;
+	text-decoration:none;
+	padding: 10px;
+}
+.badges span{
+	border-radius:10px;
+	color:blue;
+	background-color:red;
+	margin: -5px;
+    top: -27px;
+    position: relative;
+    margin-top: 10px;
+	width: 11px;
+    height: 11px;
+	
+
+}
+
+.badges1{
+	
+	border:2px solid;
+	border-radius:5px;
+	width:300px;
+	height:50px;
+	background-color:azure;
+	display:flex;
+	justify-content:center;
+	align-items:center; 	
+	}
+.badges1 a{
+	position:relative;
+	background-color:blue;
+	border-radius:1px;
+	color:white;
+	text-decoration:none;
+	padding: 10px;
+	
+}
+.badges1 span{
+	border-radius:5px;
+	color:white;
+	background-color:red;
+	margin: -11px;
+    top: -27px;
+    position: relative;
+    margin-top: 10px;
+	width: 20px;
+    height: 19px;
+	
+
+}
+.badges2{
+	
+	border:2px solid;
+	border-radius:5px;
+	width:300px;
+	height:50px;
+	background-color:azure;
+	display:flex;
+	justify-content:center;
+	align-items:center; 	
+	}
+.badges2 a{
+	position:relative;
+	background-color:blue;
+	border-radius:4px;
+	color:white;
+	text-decoration:none;
+	padding: 10px;
+	
+}
+.badges2 span{
+	border-radius:5px;
+	color:white;
+	background-color:red;
+	margin: -11px;
+    top: -27px;
+    position: relative;
+    margin-top: 10px;
+	width: 20px;
+    height: 19px;
+	
+
+}
